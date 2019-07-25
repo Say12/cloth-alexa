@@ -14,10 +14,6 @@ let factorIndex = [
 		medium    : 1,
 		heavy     : 2
 	},
-	//height is range based, so a separate function will be used
-
-	//input factors
-	//timeOfDay : 2
 	{
 		name 	  : 'timeOfDay',
 		morning   : 0,
