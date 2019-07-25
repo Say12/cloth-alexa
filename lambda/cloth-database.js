@@ -1,5 +1,5 @@
 let factorIndex = [
-	//fixed factors, i.e. physical charecteristics
+	
 	//complexion : 0
 	{
 		name 	  : 'complexion',
